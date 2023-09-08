@@ -1,3 +1,6 @@
+#Question exempler 12.13.3.10
+#Shaikh Rusna Aiyubbhai
+#EE22BTECH11048
 import numpy as np
 from sympy import symbols, Eq, solve
 
